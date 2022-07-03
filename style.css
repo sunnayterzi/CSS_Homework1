@@ -1,0 +1,29 @@
+h1 {
+    color: red;
+    
+}
+
+a{
+    padding: 12px 14px;
+    color: blueviolet;
+}
+
+.content {
+    display:flex; 
+    justify-content:center;
+}
+
+body {
+    text-align: center;
+}
+li {
+    list-style-position: inside;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 
+    'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p {
+    color: midnightblue;
+    text-align:start; 
+    margin:10px
+}
